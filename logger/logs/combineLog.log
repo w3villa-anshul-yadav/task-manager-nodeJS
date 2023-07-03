@@ -1064,3 +1064,5 @@
 {"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:58:14.547Z"}
 {"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:58:19.868Z"}
 {"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:58:19.895Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T18:39:55.844Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T18:39:55.871Z"}
