@@ -418,3 +418,5 @@
 {"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T09:57:50.326Z"}
 {"level":"info","message":"Connected to database","timestamp":"2023-07-03T09:57:50.362Z"}
 {"level":"info","message":"User  created Sucessfully","timestamp":"2023-07-03T09:58:01.280Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T12:04:56.370Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T12:04:56.397Z"}
