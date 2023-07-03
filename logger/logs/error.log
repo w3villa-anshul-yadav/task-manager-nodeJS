@@ -36,3 +36,4 @@
 {"level":"error","message":"Error: Error: secretOrPrivateKey must have a value","timestamp":"2023-07-03T09:24:26.049Z"}
 {"level":"error","message":"Error: Error: secretOrPrivateKey must have a value","timestamp":"2023-07-03T09:25:19.642Z"}
 {"level":"error","message":"Error: Error: secretOrPrivateKey must have a value","timestamp":"2023-07-03T09:25:33.901Z"}
+{"level":"error","message":"User already exists","timestamp":"2023-07-03T09:55:28.158Z"}
