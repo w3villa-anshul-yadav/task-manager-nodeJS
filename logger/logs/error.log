@@ -53,3 +53,4 @@
 {"level":"error","message":"TypeError: Cannot read properties of null (reading 'token')","timestamp":"2023-07-03T11:32:51.035Z"}
 {"level":"error","message":"Error: User is Not Authorized","timestamp":"2023-07-03T11:33:58.133Z"}
 {"level":"error","message":"Error: User is Not Authorized","timestamp":"2023-07-03T11:51:51.857Z"}
+{"level":"error","message":"Error: User is Not Authorized","timestamp":"2023-07-03T17:45:00.236Z"}
