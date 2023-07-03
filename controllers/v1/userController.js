@@ -14,6 +14,7 @@ const generateToken = (user) => {
                     email: user.email,
                     name: user.name,
                     id: user.id,
+                    phoneNumber: user.phoneNumber,
                 },
             },
             process.env.SECTRET_ACCESS_KEY,
@@ -32,7 +33,7 @@ const registerUser = asyncHandler(async (req, res) => {
         #swagger.description="Endpoint to register new User"
      */
 
-    const { name, email, password } = req.body;
+    const { name, email, password, phoneNumber } = req.body;
 
     try {
         const existingUser = await User.find({ email });
@@ -51,6 +52,7 @@ const registerUser = asyncHandler(async (req, res) => {
             name,
             email,
             password: hashedPassword,
+            phoneNumber,
         });
 
         if (user) {
@@ -61,7 +63,12 @@ const registerUser = asyncHandler(async (req, res) => {
             return res.status(201).json({
                 status: true,
                 message: "User created Sucessfully",
-                user: { email: user.email, name: user.name, id: user._id },
+                user: {
+                    email: user.email,
+                    name: user.name,
+                    id: user._id,
+                    phoneNumber: user.phoneNumber,
+                },
                 token,
             });
         }
@@ -73,7 +80,7 @@ const registerUser = asyncHandler(async (req, res) => {
     }
 });
 const loginUser = asyncHandler(async (req, res) => {
-     /**
+    /**
         #swagger.summary = "Login"
         #swagger.tags = ['User']
         #swagger.description="Endpoint to Login  User"
@@ -93,7 +100,12 @@ const loginUser = asyncHandler(async (req, res) => {
                 status: true,
                 token: token,
                 message: "User logged in sucessfully",
-                user: { email: user.email, name: user.name, id: user._id },
+                user: {
+                    email: user.email,
+                    name: user.name,
+                    id: user._id,
+                    phoneNumber: user.phoneNumber,
+                },
             });
         } else {
             return res.status(400).json({

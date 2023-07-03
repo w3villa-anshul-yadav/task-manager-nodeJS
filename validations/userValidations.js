@@ -38,6 +38,17 @@ const registerUserValidator = Joi.object({
                 "confirm Password must contain at least one uppercase letter, one number, and one special character (!@#$%^&*).",
             "any.required": "confirm Password is required.",
         }),
+    phoneNumber: Joi.string()
+        .pattern(new RegExp("^[0-9]{10}$"))
+        .required()
+        .messages({
+            "string.pattern.base":
+                "Phone Number must contain only numbers and should of length 10",
+            "string.base": `Phone Number is required`,
+            "string.empty": `Phone Number should not be empty`,
+            "any.required": `Phone Number is required`,
+        })
+        .example("1234567890"),
 });
 
 const loginUserValidator = Joi.object({
