@@ -1,24 +1,39 @@
 const express = require("express");
 const route = express.Router();
 
-route.get("/", (req, res) => {
-    res.status(200).send("all task");
-});
+const {
+    createTaskValidation,
+    updateTaskValidation,
+    taskIdValidation,
+} = require("../validations/taskValidations");
 
-route.get("/:id", (req, res) => {
-    res.status(200).send(`get task using ${req.params.id}`);
-});
+const validateTokenMiddleware = require("../middlewares/validateTokenMiddleware");
 
-route.post("/", (req, res) => {
-    res.status(200).send("create new task");
-});
+//controller functions
+const {
+    getAllTasks,
+    getTask,
+    createTask,
+    deleteTask,
+    updateTask,
+} = require("../controllers/v1/taskController");
+const resourseValidator = require("../middlewares/resourseValidator");
 
-route.patch("/:id", (req, res) => {
-    res.status(200).send(`update task using ${req.params.id}`);
-});
+route.use(validateTokenMiddleware);
 
-route.delete("/:id", (req, res) => {
-    res.status(200).send(`delete task using ${req.params.id}`);
-});
+route.get("/", getAllTasks);
+
+route.get("/:id", getTask);
+
+route.post("/", resourseValidator(createTaskValidation), createTask);
+
+route.patch(
+    "/:id",
+
+    resourseValidator(updateTaskValidation),
+    updateTask
+);
+
+route.delete("/:id", deleteTask);
 
 module.exports = route;
