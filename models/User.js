@@ -15,6 +15,10 @@ const userSchema = mongoose.Schema(
         phoneNumber: {
             type: String,
         },
+        forgetPasswordToken: {
+            type: String,
+            default: null,
+        },
     },
     {
         timestamps: true,

@@ -1,26 +1,33 @@
 const jwt = require("jsonwebtoken");
+const logger = require("../logger");
 
-module.exports = (req, res, next) => {
-    let authorizationHeader =
-        req.headers.authorization || req.headers.Authorization;
+const validateToken = (req, res, next) => {
+    try {
+        let authorizationHeader =
+            req.headers.authorization || req.headers.Authorization;
 
-    if (authorizationHeader && authorizationHeader.startsWith("Bearer")) {
-        const token = req.headers.authorization.split(" ")[1];
+        if (authorizationHeader && authorizationHeader.startsWith("Bearer")) {
+            const token = req.headers.authorization.split(" ")[1];
 
-        jwt.verify(token, process.env.SECTRET_ACCESS_KEY, (err, decode) => {
+            jwt.verify(token, process.env.SECTRET_ACCESS_KEY, (err, decode) => {
+                if (err) {
+                    res.status(401);
+                    throw new Error("User is Not Authorized");
+                }
 
-            if (err) {
-                res.status(401);
-                throw new Error("User is Not Authorized");
-            }
+                req.user = decode.user;
+            });
 
-            req.user = decode.user;
-        });
-
-        next();
-
-    } else {
-        res.status(401);
-        throw new Error("User is not Atuthorized or Token  is Missing");
+            next();
+        } else {
+            res.status(401);
+            throw new Error("User is not Atuthorized or Token  is Missing");
+        }
+    } catch (error) {
+        logger.error(error.toString());
+        return res
+            .status(500)
+            .json({ status: false, message: error.toString() });
     }
 };
+module.exports = validateToken;
