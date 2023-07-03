@@ -2,6 +2,8 @@ const asyncHandler = require("express-async-handler");
 const bcrypt = require("bcryptjs");
 const jwt = require("jsonwebtoken");
 
+const TokenGenerator = require("../../config/tokenGenerator");
+
 const User = require("../../models/User");
 const logger = require("../../logger");
 
@@ -121,4 +123,87 @@ const loginUser = asyncHandler(async (req, res) => {
     }
 });
 
-module.exports = { registerUser, loginUser };
+const forgetPassword = asyncHandler(async (req, res) => {
+    const { email } = req.body;
+
+    const isValidUser = req.user.email === email;
+
+    if (!isValidUser) {
+        return res.status(400).json({
+            status: false,
+            message:
+                "Email is not associated with your accoun, You Can Change only own password",
+        });
+    }
+
+    try {
+        const forgetToken = TokenGenerator.generate();
+
+        await User.updateOne({ email }, { forgetPasswordToken: forgetToken });
+
+        return res.status(200).json({
+            status: true,
+            token: forgetToken,
+            message: "This is token to reset password ",
+        });
+    } catch (error) {
+        logger.error(error.toString());
+        return res
+            .status(500)
+            .json({ status: false, message: error.toString() });
+    }
+});
+
+const resetPassword = asyncHandler(async (req, res) => {
+    const { password, forgetPasswordToken } = req.body;
+    try {
+        const isValidToken = TokenGenerator.isValid(forgetPasswordToken);
+
+        if (!isValidToken) {
+            return res.status(400).json({
+                status: false,
+                message: "Token is invalid",
+            });
+        }
+
+        const user = await User.findOne({
+            forgetPasswordToken: forgetPasswordToken.trim(),
+        });
+
+        if (user) {
+            const isSamePassword = await bcrypt.compare(
+                password,
+                user.password
+            );
+
+            if (isSamePassword) {
+                return res.status(400).json({
+                    status: false,
+                    message: "Password is same as previous Choose a new One",
+                });
+            }
+
+            const hashedPassword = await bcrypt.hash(password, 10);
+            await User.updateOne(
+                { forgetPasswordToken },
+                { password: hashedPassword, forgetPasswordToken: null }
+            );
+
+            return res.status(200).json({
+                status: true,
+                message: "Password Updated Sucessfully",
+            });
+        } else {
+            return res.status(400).json({
+                status: false,
+                message: "Token is invalid",
+            });
+        }
+    } catch (error) {
+        logger.error(error.toString());
+        return res
+            .status(500)
+            .json({ status: false, message: error.toString() });
+    }
+});
+module.exports = { registerUser, loginUser, forgetPassword, resetPassword };

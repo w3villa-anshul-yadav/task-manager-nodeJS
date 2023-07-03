@@ -418,5 +418,649 @@
 {"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T09:57:50.326Z"}
 {"level":"info","message":"Connected to database","timestamp":"2023-07-03T09:57:50.362Z"}
 {"level":"info","message":"User  created Sucessfully","timestamp":"2023-07-03T09:58:01.280Z"}
-{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T12:04:56.370Z"}
-{"level":"info","message":"Connected to database","timestamp":"2023-07-03T12:04:56.397Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:03:53.975Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:03:54.015Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:04:00.526Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:04:00.553Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:07:23.185Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:07:23.210Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:10:25.495Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:10:25.522Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:10:29.031Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:10:29.071Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:10:40.982Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:10:41.004Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:10:42.469Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:10:42.502Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:10:45.178Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:10:45.215Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:10:46.648Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:10:46.679Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:10:50.805Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:10:50.840Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:10:54.868Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:10:54.892Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:10:57.094Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:10:57.126Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:11:04.530Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:11:04.556Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:11:10.629Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:11:10.654Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:11:13.876Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:11:13.904Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:12:01.867Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:12:01.895Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:16:47.093Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:16:47.125Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:18:09.290Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:18:09.319Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:18:11.578Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:18:11.625Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:18:37.349Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:18:37.374Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:18:38.823Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:18:38.846Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:18:40.739Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:18:40.761Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:18:46.675Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:18:46.702Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:18:48.021Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:18:48.045Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:19:14.419Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:19:14.457Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:19:16.033Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:19:16.074Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:19:26.670Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:19:26.693Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:19:32.258Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:19:32.281Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:19:33.917Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:19:33.939Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:19:39.119Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:19:39.144Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:19:45.772Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:19:45.843Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:20:05.528Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:20:05.570Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:20:19.188Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:20:19.226Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:20:36.789Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:20:36.813Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:20:45.690Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:20:45.753Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:21:24.422Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:21:24.444Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:21:26.407Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:21:26.432Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:21:31.252Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:21:31.274Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:21:34.169Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:21:34.209Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:21:41.662Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:21:41.684Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:22:12.042Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:22:12.064Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:22:14.301Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:22:14.324Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:22:21.990Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:22:22.012Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:23:17.997Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:23:18.021Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:23:23.207Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:23:23.230Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:23:32.324Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:23:32.347Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:23:33.781Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:23:33.803Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:23:45.844Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:23:45.913Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:23:50.043Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:23:50.065Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:24:11.526Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:24:11.549Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:24:15.614Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:24:15.726Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:24:19.206Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:24:19.233Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:24:21.139Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:24:21.162Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:24:27.671Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:24:27.693Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:24:46.773Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:24:46.799Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:24:50.641Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:24:50.661Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:24:52.606Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:24:52.643Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:25:22.006Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:25:22.041Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:25:28.390Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:25:28.438Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:25:58.472Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:25:58.496Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:25:59.913Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:25:59.938Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:26:03.969Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:26:03.991Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:26:08.477Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:26:08.529Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:26:16.350Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:26:16.376Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:26:20.558Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:26:20.584Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:26:51.134Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:26:51.155Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:27:09.087Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:27:09.123Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:33:30.261Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:33:30.299Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:34:00.936Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:34:00.960Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:34:04.041Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:34:04.067Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:34:18.622Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:34:18.652Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:34:20.414Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:34:20.489Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:34:45.549Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:34:45.571Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:34:47.394Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:34:47.437Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:35:19.314Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:35:19.336Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:35:21.863Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:35:21.928Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:35:26.106Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:35:26.128Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:36:48.721Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:36:48.744Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:37:09.308Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:37:09.357Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:37:11.292Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:37:11.329Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:37:40.519Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:37:40.563Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:37:41.741Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:37:41.768Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:38:42.183Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:38:42.257Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:38:43.911Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:38:43.969Z"}
+{"level":"error","message":"Error: User is Not Authorized","timestamp":"2023-07-03T10:38:45.474Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:41:38.518Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:41:38.542Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:41:40.778Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:41:40.807Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:41:42.582Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:41:42.603Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:41:49.611Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:41:49.658Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:42:14.461Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:42:14.485Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:43:19.851Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:43:19.875Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:43:31.082Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:43:31.119Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:43:37.477Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:43:37.502Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:43:43.944Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:43:43.966Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:43:46.973Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:43:46.997Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:43:48.728Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:43:48.751Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:44:50.520Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:44:50.543Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:45:01.674Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:45:01.697Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:45:02.937Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:45:02.976Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:45:15.809Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:45:15.863Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:45:25.165Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:45:25.188Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:45:35.999Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:45:36.023Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:45:49.174Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:45:49.198Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:45:58.620Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:45:58.644Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:46:03.074Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:46:03.096Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:46:25.193Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:46:25.215Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:46:28.252Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:46:28.274Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:46:53.719Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:46:53.742Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:47:02.010Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:47:02.035Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:47:04.952Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:47:05.005Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:47:10.260Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:47:10.285Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:47:33.547Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:47:33.569Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:47:34.912Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:47:34.940Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:47:36.112Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:47:36.134Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:47:39.934Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:47:39.961Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:52:58.836Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:52:58.859Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:53:15.422Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:53:15.446Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:53:18.429Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:53:18.559Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:53:22.664Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:53:22.687Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:53:31.145Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:53:31.168Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:53:48.436Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:53:48.459Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:53:57.198Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:53:57.242Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:54:10.112Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:54:10.138Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:56:50.281Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:56:50.305Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:56:52.052Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:56:52.097Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:57:10.270Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:57:10.294Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:57:12.624Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:57:12.645Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:57:19.508Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:57:19.558Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:57:37.658Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:57:37.685Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:57:47.302Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:57:47.336Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:57:53.700Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:57:53.747Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:58:30.242Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:58:30.265Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:58:31.642Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:58:31.665Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:58:33.602Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:58:33.641Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:58:45.170Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:58:45.194Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:58:47.483Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:58:47.507Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:58:48.895Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:58:48.926Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:59:12.034Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:59:12.056Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T10:59:16.651Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T10:59:16.701Z"}
+{"level":"error","message":"Error: User is Not Authorized","timestamp":"2023-07-03T10:59:22.297Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:00:17.291Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:00:17.314Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:00:19.475Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:00:19.497Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:00:21.211Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:00:21.292Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:00:38.543Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:00:38.568Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:00:45.502Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:00:45.525Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:00:53.398Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:00:53.436Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:00:54.562Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:00:54.585Z"}
+{"level":"error","message":"TypeError: forgetPasswordTokenGenerator.generete is not a function","timestamp":"2023-07-03T11:00:57.012Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:01:53.697Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:01:53.724Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:01:56.725Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:01:56.747Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:02:00.703Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:02:00.727Z"}
+{"level":"error","message":"TypeError: forgetPasswordTokenGenerator.generete is not a function","timestamp":"2023-07-03T11:02:08.741Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:02:33.289Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:02:33.316Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:02:53.774Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:02:53.800Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:02:55.888Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:02:55.912Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:03:07.262Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:03:07.285Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:03:31.632Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:03:31.655Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:04:02.293Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:04:02.352Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:04:09.627Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:04:09.694Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:05:54.361Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:05:54.383Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:05:55.941Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:05:55.965Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:06:03.107Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:06:03.136Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:06:33.471Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:06:33.521Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:07:06.844Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:07:06.867Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:07:13.667Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:07:13.723Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:07:22.473Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:07:22.497Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:10:11.036Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:10:11.060Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:10:13.804Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:10:13.828Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:10:20.421Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:10:20.457Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:10:21.979Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:10:22.009Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:10:25.282Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:10:25.311Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:10:29.426Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:10:29.467Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:10:33.719Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:10:33.741Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:14:43.083Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:14:43.105Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:14:44.539Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:14:44.562Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:15:31.229Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:15:31.253Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:15:39.367Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:15:39.390Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:15:44.715Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:15:44.739Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:16:16.980Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:16:17.006Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:16:25.909Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:16:25.931Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:16:27.292Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:16:27.331Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:16:41.997Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:16:42.019Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:16:45.004Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:16:45.028Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:16:51.582Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:16:51.605Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:16:52.915Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:16:52.950Z"}
+{"level":"error","message":"Error: User is not Atuthorized or Token  is Missing","timestamp":"2023-07-03T11:18:22.328Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:19:09.492Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:19:09.516Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:19:19.252Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:19:19.343Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:19:32.802Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:19:32.930Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:21:35.575Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:21:35.647Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:22:14.181Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:22:14.207Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:22:49.292Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:22:49.332Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:23:16.401Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:23:16.423Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:24:03.746Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:24:03.877Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:24:15.706Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:24:15.732Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:24:41.801Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:24:41.884Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:24:50.106Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:24:50.131Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:24:59.102Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:24:59.156Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:25:10.548Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:25:10.570Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:25:12.073Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:25:12.096Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:26:27.739Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:26:27.771Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:26:35.143Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:26:35.164Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:26:43.402Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:26:43.426Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:26:47.868Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:26:47.893Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:27:12.217Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:27:12.261Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:27:14.497Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:27:14.525Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:27:35.338Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:27:35.375Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:27:37.304Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:27:37.326Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:27:40.019Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:27:40.041Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:27:44.894Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:27:44.919Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'email')","timestamp":"2023-07-03T11:27:47.566Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:28:17.973Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:28:18.021Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:28:20.023Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:28:20.074Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'email')","timestamp":"2023-07-03T11:28:22.810Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:29:03.645Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:29:03.748Z"}
+{"level":"error","message":"TypeError: Cannot read properties of null (reading 'token')","timestamp":"2023-07-03T11:29:04.253Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:29:22.913Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:29:22.941Z"}
+{"level":"error","message":"ObjectParameterError: Parameter \"filter\" to findOne() must be an object, got \"s\" (type string)","timestamp":"2023-07-03T11:29:26.025Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:30:01.630Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:30:01.659Z"}
+{"level":"error","message":"TypeError: Cannot read properties of null (reading 'token')","timestamp":"2023-07-03T11:30:04.499Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:30:59.037Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:30:59.130Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:31:01.259Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:31:01.283Z"}
+{"level":"error","message":"TypeError: Cannot read properties of null (reading 'token')","timestamp":"2023-07-03T11:31:06.835Z"}
+{"level":"error","message":"TypeError: Cannot read properties of null (reading 'token')","timestamp":"2023-07-03T11:31:29.585Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:31:44.857Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:31:44.890Z"}
+{"level":"error","message":"TypeError: Cannot read properties of null (reading 'token')","timestamp":"2023-07-03T11:31:46.343Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:32:10.121Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:32:10.143Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:32:12.709Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:32:12.732Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:32:16.497Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:32:16.646Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:32:22.255Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:32:22.280Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:32:23.756Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:32:23.783Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:32:26.105Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:32:26.128Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:32:27.923Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:32:27.945Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:32:49.620Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:32:49.652Z"}
+{"level":"error","message":"TypeError: Cannot read properties of null (reading 'token')","timestamp":"2023-07-03T11:32:51.035Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:33:38.858Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:33:38.882Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:33:44.737Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:33:44.761Z"}
+{"level":"error","message":"Error: User is Not Authorized","timestamp":"2023-07-03T11:33:58.133Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:35:28.590Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:35:28.631Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:36:09.280Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:36:09.307Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:37:11.092Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:37:11.126Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:37:50.485Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:37:50.511Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:39:20.868Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:39:20.940Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:40:39.510Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:40:39.536Z"}
+{"level":"info","message":"User  created Sucessfully","timestamp":"2023-07-03T11:40:42.022Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:41:40.210Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:41:40.246Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:41:41.456Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:41:41.482Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:42:49.595Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:42:49.646Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:42:52.306Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:42:52.346Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:42:55.858Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:42:55.881Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:43:00.613Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:43:00.649Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:43:02.128Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:43:02.159Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:43:15.889Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:43:15.912Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:43:19.119Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:43:19.141Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:43:21.523Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:43:24.158Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:43:24.182Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:43:38.245Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:43:38.269Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:43:40.727Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:43:40.750Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:43:45.016Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:43:45.040Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:43:46.385Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:43:46.407Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:43:57.472Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:43:57.497Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:43:59.512Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:43:59.538Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:44:05.997Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:44:06.024Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:44:10.221Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:44:10.251Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:44:21.179Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:44:21.202Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:44:32.241Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:44:32.263Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:44:39.818Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:44:39.842Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:44:44.789Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:44:44.816Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:45:06.206Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:45:06.235Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:45:13.359Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:45:13.380Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:45:14.677Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:45:14.699Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:45:20.212Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:45:20.234Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:45:22.221Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:45:22.244Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:45:24.110Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:45:24.132Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:45:38.842Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:45:38.898Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:45:40.092Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:45:40.114Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:45:42.480Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:45:42.503Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:45:59.499Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:45:59.524Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:46:03.353Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:46:03.376Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:46:04.962Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:46:04.986Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:46:08.774Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:46:08.796Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:46:12.702Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:46:12.724Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:46:14.909Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:46:14.933Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:46:16.215Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:46:16.239Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:46:25.434Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:46:25.477Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:46:27.707Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:46:27.729Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:46:29.617Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:46:29.661Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:46:46.960Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:46:46.994Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:46:48.951Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:46:48.974Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:46:55.870Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:46:55.892Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:47:05.387Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:47:05.410Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:47:12.837Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:47:12.863Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:47:25.459Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:47:25.490Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:47:28.128Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:47:28.150Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:47:33.013Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:47:33.039Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:47:39.264Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:47:39.288Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:48:38.916Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:48:38.941Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:48:43.740Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:48:43.763Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:48:47.795Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:48:47.821Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:48:53.829Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:48:53.856Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:48:55.616Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:48:55.644Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:50:58.949Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:50:58.974Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:51:03.388Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:51:03.411Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:51:14.456Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:51:14.481Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:51:27.000Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:51:27.028Z"}
+{"level":"error","message":"Error: User is Not Authorized","timestamp":"2023-07-03T11:51:51.857Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:52:36.598Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:52:36.623Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:52:43.300Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:52:43.342Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:52:51.368Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:52:51.392Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:54:02.956Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:54:03.000Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:54:07.841Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:54:07.864Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:54:29.921Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:54:29.957Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:54:39.906Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:54:39.928Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:54:44.325Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:54:44.347Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:54:47.050Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:54:47.079Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:54:56.464Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:54:56.493Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:55:02.337Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:55:02.361Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:55:11.874Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:55:11.905Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:55:13.667Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:55:13.691Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:55:20.900Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:55:20.944Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:55:22.838Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:55:22.900Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:56:17.759Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:56:17.846Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:57:12.246Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:57:12.271Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:57:38.720Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:57:38.749Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:57:40.033Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:57:40.055Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:57:41.907Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:57:41.941Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:58:04.571Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:58:04.598Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:58:08.653Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:58:08.693Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:58:10.435Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:58:10.457Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:58:12.766Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:58:12.798Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:58:14.520Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:58:14.547Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:58:19.868Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:58:19.895Z"}

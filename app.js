@@ -19,21 +19,17 @@ const routes = require("./routes/index");
 
 const noRoutesMiddleWare = require("./middlewares/noRoutesMiddleWare");
 const logger = require("./logger");
+const errorHandler = require("./middlewares/errorHandlerMiddleware");
 
 app.use(express.json());
 
 app.use("/api/v1", routes);
 
-
 // Swagger
-app.use(
-  "/api-documents",
-  swaggerUi.serve,
-  swaggerUi.setup(swaggerDocs)
-);
-
+app.use("/api-documents", swaggerUi.serve, swaggerUi.setup(swaggerDocs));
 
 app.use(noRoutesMiddleWare);
+app.use(errorHandler);
 
 const PORT = process.env.PORT || 5000;
 

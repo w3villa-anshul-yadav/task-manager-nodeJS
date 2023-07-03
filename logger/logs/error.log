@@ -37,3 +37,19 @@
 {"level":"error","message":"Error: Error: secretOrPrivateKey must have a value","timestamp":"2023-07-03T09:25:19.642Z"}
 {"level":"error","message":"Error: Error: secretOrPrivateKey must have a value","timestamp":"2023-07-03T09:25:33.901Z"}
 {"level":"error","message":"User already exists","timestamp":"2023-07-03T09:55:28.158Z"}
+{"level":"error","message":"Error: User is Not Authorized","timestamp":"2023-07-03T10:38:45.474Z"}
+{"level":"error","message":"Error: User is Not Authorized","timestamp":"2023-07-03T10:59:22.297Z"}
+{"level":"error","message":"TypeError: forgetPasswordTokenGenerator.generete is not a function","timestamp":"2023-07-03T11:00:57.012Z"}
+{"level":"error","message":"TypeError: forgetPasswordTokenGenerator.generete is not a function","timestamp":"2023-07-03T11:02:08.741Z"}
+{"level":"error","message":"Error: User is not Atuthorized or Token  is Missing","timestamp":"2023-07-03T11:18:22.328Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'email')","timestamp":"2023-07-03T11:27:47.566Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'email')","timestamp":"2023-07-03T11:28:22.810Z"}
+{"level":"error","message":"TypeError: Cannot read properties of null (reading 'token')","timestamp":"2023-07-03T11:29:04.253Z"}
+{"level":"error","message":"ObjectParameterError: Parameter \"filter\" to findOne() must be an object, got \"s\" (type string)","timestamp":"2023-07-03T11:29:26.025Z"}
+{"level":"error","message":"TypeError: Cannot read properties of null (reading 'token')","timestamp":"2023-07-03T11:30:04.499Z"}
+{"level":"error","message":"TypeError: Cannot read properties of null (reading 'token')","timestamp":"2023-07-03T11:31:06.835Z"}
+{"level":"error","message":"TypeError: Cannot read properties of null (reading 'token')","timestamp":"2023-07-03T11:31:29.585Z"}
+{"level":"error","message":"TypeError: Cannot read properties of null (reading 'token')","timestamp":"2023-07-03T11:31:46.343Z"}
+{"level":"error","message":"TypeError: Cannot read properties of null (reading 'token')","timestamp":"2023-07-03T11:32:51.035Z"}
+{"level":"error","message":"Error: User is Not Authorized","timestamp":"2023-07-03T11:33:58.133Z"}
+{"level":"error","message":"Error: User is Not Authorized","timestamp":"2023-07-03T11:51:51.857Z"}
