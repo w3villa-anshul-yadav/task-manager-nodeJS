@@ -5,7 +5,7 @@ const errorHandler = (error, request, response, next) => {
 
     switch (receivedStatusCode) {
         case statusCode.NOT_FOUND:
-            response.json({
+          return  response.json({
                 type: "NOT FOUND",
                 message: error.message,
                 stackTrace: error.stack,
@@ -13,7 +13,7 @@ const errorHandler = (error, request, response, next) => {
             break;
 
         case statusCode.FORBIDDEN:
-            response.json({
+           return response.json({
                 type: "Forbidden",
                 message: error.message,
                 stackTrace: error.stack,
@@ -29,7 +29,7 @@ const errorHandler = (error, request, response, next) => {
             break;
 
         case statusCode.VALIDATION_ERROR:
-            response.json({
+          return  response.json({
                 type: "VALIDATION ERROR",
                 message: error.message,
                 stackTrace: error.stack,
@@ -37,7 +37,7 @@ const errorHandler = (error, request, response, next) => {
             break;
 
         case statusCode.SERVER_ERROR:
-            response.json({
+           return response.json({
                 type: "SERVER ERROR",
                 message: error.message,
                 stackTrace: error.stack,
