@@ -1064,3 +1064,11 @@
 {"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:58:14.547Z"}
 {"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-03T11:58:19.868Z"}
 {"level":"info","message":"Connected to database","timestamp":"2023-07-03T11:58:19.895Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-04T09:19:46.468Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-04T09:19:46.494Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-04T09:21:25.610Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-04T09:21:25.636Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-04T09:23:02.243Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-04T09:23:02.267Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-04T09:23:39.125Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-04T09:23:39.176Z"}

@@ -49,6 +49,9 @@
                 },
                 "password": {
                   "example": "any"
+                },
+                "phoneNumber": {
+                  "example": "any"
                 }
               }
             }
@@ -92,6 +95,96 @@
           }
         ],
         "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        }
+      }
+    },
+    "/api/v1/user/forget-password": {
+      "post": {
+        "tags": [
+          "User"
+        ],
+        "summary": "Forget Password",
+        "description": "Endpoint to Forget Password",
+        "parameters": [
+          {
+            "name": "authorization",
+            "in": "header",
+            "type": "string"
+          },
+          {
+            "name": "Authorization",
+            "in": "header",
+            "type": "string"
+          },
+          {
+            "name": "body",
+            "in": "body",
+            "schema": {
+              "type": "object",
+              "properties": {
+                "email": {
+                  "example": "any"
+                }
+              }
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "500": {
+            "description": "Internal Server Error"
+          }
+        }
+      }
+    },
+    "/api/v1/user/reset-password": {
+      "post": {
+        "tags": [
+          "User"
+        ],
+        "summary": "Reset Password",
+        "description": "Endpoint to Reset Password",
+        "parameters": [
+          {
+            "name": "body",
+            "in": "body",
+            "schema": {
+              "type": "object",
+              "properties": {
+                "password": {
+                  "example": "any"
+                },
+                "forgetPasswordToken": {
+                  "example": "any"
+                }
+              }
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          },
+          "400": {
+            "description": "Bad Request"
+          },
           "500": {
             "description": "Internal Server Error"
           }
@@ -112,6 +205,10 @@
           "example": "example@gmail.com"
         },
         "password": {
+          "type": "string",
+          "example": "Password@123"
+        },
+        "confirmPassword": {
           "type": "string",
           "example": "Password@123"
         },

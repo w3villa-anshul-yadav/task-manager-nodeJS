@@ -124,6 +124,11 @@ const loginUser = asyncHandler(async (req, res) => {
 });
 
 const forgetPassword = asyncHandler(async (req, res) => {
+    /**
+        #swagger.summary = "Forget Password"
+        #swagger.tags = ['User']
+        #swagger.description="Endpoint to Forget Password"
+     */
     const { email } = req.body;
 
     const isValidUser = req.user.email === email;
@@ -155,6 +160,11 @@ const forgetPassword = asyncHandler(async (req, res) => {
 });
 
 const resetPassword = asyncHandler(async (req, res) => {
+    /**
+        #swagger.summary = "Reset Password"
+        #swagger.tags = ['User']
+        #swagger.description="Endpoint to Reset Password"
+     */
     const { password, forgetPasswordToken } = req.body;
     try {
         const isValidToken = TokenGenerator.isValid(forgetPasswordToken);
