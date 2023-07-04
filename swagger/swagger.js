@@ -1,6 +1,6 @@
 const swaggerAutogen = require("swagger-autogen")();
 const outputFile = "./swagger/swagger.json";
-const endpointsFiles = ["../app.js", "../controllers/v1/**/*.js"];
+const endpointsFiles = ["../app.js", "../controllers/v1/*.js"];
 const doc = {
     info: {
         version: "1.0.0",
@@ -28,6 +28,7 @@ const doc = {
             name: "exampleUser",
             email: "example@gmail.com",
             password: "Password@123",
+            confirmPassword: "Password@123",
             phoneNumber: "Password@123",
         },
         Task: {
