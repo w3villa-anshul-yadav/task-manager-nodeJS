@@ -1,9 +1,10 @@
-const Task = require("../models/Task");
 const mongoose = require("mongoose");
 
 const chai = require("chai");
 const chaiHttp = require("chai-http");
 const app = require("../app");
+const Task = require("../models/Task");
+const User = require("../models/User");
 
 const should = chai.should();
 
@@ -14,6 +15,44 @@ const testTokenUser2 = process.env.TEST_TOKEN_USER2;
 chai.use(chaiHttp);
 describe("-----------------Task-------------------", () => {
     let taskID;
+    let testTokenUser1;
+    let testTokenUser2;
+
+    it("should   Create User for testing task API ", (done) => {
+        const user = {
+            name: "chiku",
+            email: "chikuTest@gmail.com", //change email each time of test
+            password: "Chiku@123",
+            confirmPassword: "Chiku@123",
+            phoneNumber: "9932232423",
+        };
+
+        chai.request(app)
+            .post("/api/v1/user/register")
+            .send(user)
+            .end((err, res) => {
+                res.should.have.status(201);
+                res.body.status.should.be.eql(true);
+                res.body.message.should.be.eql("User created Sucessfully");
+                res.body.should.have.property("user");
+                res.body.token.should.exist;
+                testTokenUser1 = res.body.token;
+            });
+
+        user.email = "chiku@gmail.com"; // second user for test
+        chai.request(app)
+            .post("/api/v1/user/register")
+            .send(user)
+            .end((err, res) => {
+                res.should.have.status(201);
+                res.body.status.should.be.eql(true);
+                res.body.message.should.be.eql("User created Sucessfully");
+                res.body.should.have.property("user");
+                res.body.token.should.exist;
+                testTokenUser2 = res.body.token;
+                done();
+            });
+    });
 
     //Create Task API
 
@@ -224,6 +263,7 @@ describe("-----------------Task-------------------", () => {
     after(async () => {
         try {
             await Task.deleteMany({});
+            await User.deleteMany({});
         } catch (error) {
             console.error(error);
         }

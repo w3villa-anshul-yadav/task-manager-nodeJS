@@ -1,13 +1,15 @@
-const mongoose = require("mongoose");
-const logger = require("../logger");
+require("dotenv").config();
 
-const connectDB = async () => {
-    try {
-        await mongoose.connect(process.env.CONNECTION_STRING);
-        logger.info("Connected to database");
-    } catch (error) {
-        logger.error(error);
-    }
+module.exports = {
+    development: {
+        HOST: process.env.MONGODB_LOCAL_HOST,
+        PORT: process.env.MONGODB_LOCAL_PORT,
+        DB: process.env.MONGODB_LOCAL_DB,
+        
+    },
+    test: {
+        HOST: process.env.MONGODB_TEST_HOST,
+        PORT: process.env.MONGODB_TEST_PORT,
+        DB: process.env.MONGODB_TEST_DB,
+    },
 };
-
-module.exports = connectDB;

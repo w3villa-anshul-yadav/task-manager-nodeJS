@@ -1,7 +1,7 @@
 require("dotenv").config();
 
 //DataBase connection
-const connectDB = require("./config/DBConfig");
+const connectDB = require("./DB/DBConnection");
 connectDB();
 
 //express app
@@ -36,6 +36,5 @@ const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
     logger.info(`Server started at http://localhost:${PORT}`);
 });
-
 
 module.exports = app;
