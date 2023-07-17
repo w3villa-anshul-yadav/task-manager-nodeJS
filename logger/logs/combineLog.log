@@ -1,12 +1,12 @@
-{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-17T07:04:50.004Z"}
-{"level":"info","message":"Connected to database","timestamp":"2023-07-17T07:04:50.067Z"}
-{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-17T07:06:40.445Z"}
-{"level":"info","message":"Connected to database","timestamp":"2023-07-17T07:06:40.471Z"}
-{"level":"info","message":"User  created Sucessfully","timestamp":"2023-07-17T07:06:40.759Z"}
-{"level":"info","message":"User  created Sucessfully","timestamp":"2023-07-17T07:06:40.767Z"}
-{"level":"error","message":"Error: User is Not Authorized","timestamp":"2023-07-17T07:06:40.797Z"}
-{"level":"error","message":"Error: User is Not Authorized","timestamp":"2023-07-17T07:06:40.821Z"}
-{"level":"error","message":"Error: User is Not Authorized","timestamp":"2023-07-17T07:06:40.842Z"}
-{"level":"error","message":"Error: User is Not Authorized","timestamp":"2023-07-17T07:06:40.889Z"}
-{"level":"error","message":"Error: User is Not Authorized","timestamp":"2023-07-17T07:06:40.929Z"}
-{"level":"info","message":"User  created Sucessfully","timestamp":"2023-07-17T07:06:41.093Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-17T07:10:50.668Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-17T07:10:50.691Z"}
+{"level":"info","message":"Server started at http://localhost:5000","timestamp":"2023-07-17T07:11:07.196Z"}
+{"level":"info","message":"Connected to database","timestamp":"2023-07-17T07:11:07.221Z"}
+{"level":"info","message":"User  created Sucessfully","timestamp":"2023-07-17T07:11:07.498Z"}
+{"level":"info","message":"User  created Sucessfully","timestamp":"2023-07-17T07:11:07.511Z"}
+{"level":"error","message":"Error: User is Not Authorized","timestamp":"2023-07-17T07:11:07.544Z"}
+{"level":"error","message":"Error: User is Not Authorized","timestamp":"2023-07-17T07:11:07.563Z"}
+{"level":"error","message":"Error: User is Not Authorized","timestamp":"2023-07-17T07:11:07.585Z"}
+{"level":"error","message":"Error: User is Not Authorized","timestamp":"2023-07-17T07:11:07.624Z"}
+{"level":"error","message":"Error: User is Not Authorized","timestamp":"2023-07-17T07:11:07.664Z"}
+{"level":"info","message":"User  created Sucessfully","timestamp":"2023-07-17T07:11:07.834Z"}
