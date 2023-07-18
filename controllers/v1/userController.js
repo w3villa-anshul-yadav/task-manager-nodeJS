@@ -1,32 +1,12 @@
 const asyncHandler = require('express-async-handler');
 const bcrypt = require('bcryptjs');
-const jwt = require('jsonwebtoken');
 
 const TokenGenerator = require('../../config/tokenGenerator');
 
 const User = require('../../models/User');
 const logger = require('../../logger');
 
-//utility function
-const generateToken = (user) => {
-    try {
-        const token = jwt.sign(
-            {
-                user: {
-                    email: user.email,
-                    name: user.name,
-                    id: user.id,
-                    phoneNumber: user.phoneNumber,
-                },
-            },
-            process.env.SECTRET_ACCESS_KEY,
-            { expiresIn: '10m' }
-        );
-        return token;
-    } catch (error) {
-        throw new Error(error);
-    }
-};
+const generateToken = require('../../helpers/userControllerHelper');
 
 const registerUser = asyncHandler(async (req, res) => {
     /**
