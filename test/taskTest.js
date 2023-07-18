@@ -7,11 +7,7 @@ const Task = require("../models/Task");
 const User = require("../models/User");
 
 const should = chai.should();
-
-//update these token to run test
-const testTokenUser1 = process.env.TEST_TOKEN_USER;
-const testTokenUser2 = process.env.TEST_TOKEN_USER2;
-
+ 
 chai.use(chaiHttp);
 describe("-----------------Task-------------------", () => {
     let taskID;
@@ -21,7 +17,7 @@ describe("-----------------Task-------------------", () => {
     it("should   Create User for testing task API ", (done) => {
         const user = {
             name: "chiku",
-            email: "chikuTest@gmail.com", //change email each time of test
+            email: "chikuTest123@gmail.com", 
             password: "Chiku@123",
             confirmPassword: "Chiku@123",
             phoneNumber: "9932232423",
@@ -39,7 +35,7 @@ describe("-----------------Task-------------------", () => {
                 testTokenUser1 = res.body.token;
             });
 
-        user.email = "chiku@gmail.com"; // second user for test
+        user.email = "chiku123@gmail.com"; // second user for test
         chai.request(app)
             .post("/api/v1/user/register")
             .send(user)

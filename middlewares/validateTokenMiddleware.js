@@ -24,7 +24,7 @@ const validateToken = (req, res, next) => {
             throw new Error("User is not Atuthorized or Token  is Missing");
         }
     } catch (error) {
-        logger.error(error.toString());
+        logger.error(error.toString(), { at: new Error() });
         return res
             .status(500)
             .json({ status: false, message: error.toString() });

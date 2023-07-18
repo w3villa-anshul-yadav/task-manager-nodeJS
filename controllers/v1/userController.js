@@ -1,11 +1,11 @@
-const asyncHandler = require("express-async-handler");
-const bcrypt = require("bcryptjs");
-const jwt = require("jsonwebtoken");
+const asyncHandler = require('express-async-handler');
+const bcrypt = require('bcryptjs');
+const jwt = require('jsonwebtoken');
 
-const TokenGenerator = require("../../config/tokenGenerator");
+const TokenGenerator = require('../../config/tokenGenerator');
 
-const User = require("../../models/User");
-const logger = require("../../logger");
+const User = require('../../models/User');
+const logger = require('../../logger');
 
 //utility function
 const generateToken = (user) => {
@@ -20,7 +20,7 @@ const generateToken = (user) => {
                 },
             },
             process.env.SECTRET_ACCESS_KEY,
-            { expiresIn: "10m" }
+            { expiresIn: '10m' }
         );
         return token;
     } catch (error) {
@@ -41,7 +41,7 @@ const registerUser = asyncHandler(async (req, res) => {
         const existingUser = await User.find({ email });
 
         if (existingUser.length !== 0) {
-            logger.error("User already exists");
+            logger.error('User already exists', { at: new Error() });
             return res.status(400).json({
                 status: false,
                 message: `${email}  User already exists`,
@@ -58,13 +58,13 @@ const registerUser = asyncHandler(async (req, res) => {
         });
 
         if (user) {
-            logger.info("User  created Sucessfully");
+            logger.info('User  created Sucessfully', { at: new Error() });
 
             const token = generateToken(user);
 
             return res.status(201).json({
                 status: true,
-                message: "User created Sucessfully",
+                message: 'User created Sucessfully',
                 user: {
                     email: user.email,
                     name: user.name,
@@ -75,7 +75,7 @@ const registerUser = asyncHandler(async (req, res) => {
             });
         }
     } catch (error) {
-        logger.error(error.toString());
+        logger.error(error.toString(), { at: new Error() });
         return res
             .status(500)
             .json({ status: false, message: error.toString() });
@@ -87,12 +87,17 @@ const loginUser = asyncHandler(async (req, res) => {
         #swagger.tags = ['User']
         #swagger.description="Endpoint to Login  User"
      */
-
     const { email, password } = req.body;
 
     try {
         const user = await User.findOne({ email });
 
+        if (!user) {
+            return res.status(400).json({
+                status: false,
+                message: 'Email is not registered',
+            });
+        }
         const isValidUser = await bcrypt.compare(password, user.password);
 
         if (isValidUser) {
@@ -101,7 +106,7 @@ const loginUser = asyncHandler(async (req, res) => {
             return res.status(200).json({
                 status: true,
                 token: token,
-                message: "User logged in sucessfully",
+                message: 'User logged in sucessfully',
                 user: {
                     email: user.email,
                     name: user.name,
@@ -112,11 +117,11 @@ const loginUser = asyncHandler(async (req, res) => {
         } else {
             return res.status(400).json({
                 status: false,
-                message: "User not found",
+                message: 'User not found',
             });
         }
     } catch (error) {
-        logger.error(error.toString());
+        logger.error(error.toString(), { at: new Error() });
         return res
             .status(500)
             .json({ status: false, message: error.toString() });
@@ -137,7 +142,7 @@ const forgetPassword = asyncHandler(async (req, res) => {
         return res.status(400).json({
             status: false,
             message:
-                "Email is not associated with your accoun, You Can Change only own password",
+                'Email is not associated with your accoun, You Can Change only own password',
         });
     }
 
@@ -149,10 +154,10 @@ const forgetPassword = asyncHandler(async (req, res) => {
         return res.status(200).json({
             status: true,
             token: forgetToken,
-            message: "This is token to reset password ",
+            message: 'This is token to reset password ',
         });
     } catch (error) {
-        logger.error(error.toString());
+        logger.error(error.toString(), { at: new Error() });
         return res
             .status(500)
             .json({ status: false, message: error.toString() });
@@ -172,7 +177,7 @@ const resetPassword = asyncHandler(async (req, res) => {
         if (!isValidToken) {
             return res.status(400).json({
                 status: false,
-                message: "Token is invalid",
+                message: 'Token is invalid',
             });
         }
 
@@ -189,7 +194,7 @@ const resetPassword = asyncHandler(async (req, res) => {
             if (isSamePassword) {
                 return res.status(400).json({
                     status: false,
-                    message: "Password is same as previous Choose a new One",
+                    message: 'Password is same as previous Choose a new One',
                 });
             }
 
@@ -201,16 +206,16 @@ const resetPassword = asyncHandler(async (req, res) => {
 
             return res.status(200).json({
                 status: true,
-                message: "Password Updated Sucessfully",
+                message: 'Password Updated Sucessfully',
             });
         } else {
             return res.status(400).json({
                 status: false,
-                message: "Token is invalid",
+                message: 'Token is invalid',
             });
         }
     } catch (error) {
-        logger.error(error.toString());
+        logger.error(error.toString(), { at: new Error() });
         return res
             .status(500)
             .json({ status: false, message: error.toString() });

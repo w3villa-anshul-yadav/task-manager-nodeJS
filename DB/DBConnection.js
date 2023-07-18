@@ -10,9 +10,9 @@ const connectDB = async () => {
         const db = DBConfig.test.DB;
         try {
             await mongoose.connect(host + ':' + port + '/' + db);
-            logger.info('Connected to database');
+            logger.info('Connected to database', { at: new Error() });
         } catch (error) {
-            logger.error(error);
+            logger.error(error, { at: new Error() });
         }
     }
     // Test Environment
@@ -22,9 +22,9 @@ const connectDB = async () => {
         const db = DBConfig.development.DB;
         try {
             await mongoose.connect(host + ':' + port + '/' + db);
-            logger.info('Connected to database');
+            logger.info('Connected to database', { at: new Error() });
         } catch (error) {
-            logger.error(error);
+            logger.error(error, { at: new Error() });
         }
     }
 };

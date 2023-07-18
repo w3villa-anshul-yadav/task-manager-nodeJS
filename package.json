@@ -7,7 +7,6 @@
     "test": "export NODE_ENV=test && nyc mocha --timeout 10000 ",
     "swagger-auto": "node swagger/swagger.js",
     "start": "export NODE_ENV=development && nodemon app.js"
-
   },
   "author": "",
   "license": "ISC",
@@ -19,15 +18,16 @@
     "joi": "^17.9.2",
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^7.3.1",
+    "redis": "^4.6.7",
     "token-generator": "^1.0.0",
     "winston": "^3.9.0"
   },
   "devDependencies": {
-    "swagger-autogen": "^2.23.4",
-    "swagger-ui-express": "^4.6.3",
-    "nyc": "^15.1.0",
     "chai": "^4.3.7",
     "chai-http": "^4.4.0",
-    "mocha": "^2.4.5"
+    "mocha": "^2.4.5",
+    "nyc": "^15.1.0",
+    "swagger-autogen": "^2.23.4",
+    "swagger-ui-express": "^4.6.3"
   }
 }
